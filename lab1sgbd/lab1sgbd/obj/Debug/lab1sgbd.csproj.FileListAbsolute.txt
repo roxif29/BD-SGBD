@@ -1,0 +1,10 @@
+C:\Users\Roxi\Desktop\lab1sgbd\lab1sgbd\bin\Debug\lab1sgbd.exe.config
+C:\Users\Roxi\Desktop\lab1sgbd\lab1sgbd\bin\Debug\lab1sgbd.exe
+C:\Users\Roxi\Desktop\lab1sgbd\lab1sgbd\bin\Debug\lab1sgbd.pdb
+C:\Users\Roxi\Desktop\lab1sgbd\lab1sgbd\obj\Debug\lab1sgbd.csprojAssemblyReference.cache
+C:\Users\Roxi\Desktop\lab1sgbd\lab1sgbd\obj\Debug\lab1sgbd.Properties.Resources.resources
+C:\Users\Roxi\Desktop\lab1sgbd\lab1sgbd\obj\Debug\lab1sgbd.csproj.GenerateResource.cache
+C:\Users\Roxi\Desktop\lab1sgbd\lab1sgbd\obj\Debug\lab1sgbd.exe
+C:\Users\Roxi\Desktop\lab1sgbd\lab1sgbd\obj\Debug\lab1sgbd.pdb
+C:\Users\Roxi\Desktop\lab1sgbd\lab1sgbd\obj\Debug\Laborator1SGBD.Form1.resources
+C:\Users\Roxi\Desktop\lab1sgbd\lab1sgbd\obj\Debug\Laborator1SGBD.Add.resources
